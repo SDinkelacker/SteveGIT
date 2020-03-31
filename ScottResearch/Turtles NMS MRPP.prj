@@ -1,0 +1,596 @@
+Version 4.20
+Description
+NMS Turtle MRPP
+TransOption
+0
+PowerPValue
+0.
+RelPValue
+1.
+RowCol
+1
+NValue
+1
+Operator
+2
+Constant
+
+Combine
+1
+Entity
+
+RowColOutliersOption
+0
+RowColOption
+3
+OutliersOption
+4
+Outlier
+1
+OutlierDistance
+4
+Cutoff
+2.0
+PCAOption
+1
+PCAPrint
+1
+ClustrDistance
+4
+ClustrMethod
+6
+DendrogramWidth
+1
+DendrogramSpacing
+1
+ClustrInfo
+1
+DendrogramLog
+1
+PrintDistanceMatrix
+1
+AddGroup
+1
+GroupLevel
+
+GroupName
+
+LevelCheck
+1
+ClustrBetaValue
+-.25
+ImportExportOption
+0
+ImportName
+
+ExportName
+
+ImportExportWorkFile
+
+FileType
+1
+DCARA
+0
+SpeciesFile
+
+SummaryType
+0
+CompactDataType
+2
+CompactAggregate
+1
+SpeciesList
+1
+CompactRowName
+
+CompactColName
+
+Statistical
+1
+Verification
+1
+TreeList
+1
+Breakpoints
+1
+ImportDataType
+1
+ImportAggregate
+1
+SpeciesList
+1
+ImportRowName
+
+ImportColName
+
+TreeDataUnits
+1
+QuadratSize
+
+ExcludeTrees
+1
+TreeCutOff
+0.
+TreeDataMain
+1
+NmsDistance
+1
+Coordinates
+1
+Axes
+2
+MaxIterations
+100
+Reduction
+1
+StepLength
+.20
+WriteDistance
+1
+WriteCoordinates
+1
+ListStress
+1
+WriteConfiguration
+2
+PlotDistance
+1
+VarimaxRotation
+1
+NMSRandomOption
+1
+NMSRandomSeeds
+
+0
+NMSRandomFile
+
+NmsMonteCarlo
+1
+NmsMonteCarloRuns
+20
+MRPPGroupingMatrix
+2
+MRPPVarName
+Species
+MRPPDistance
+4
+MRPPWeight
+1
+MRPPExclude
+1
+MRPPTransform
+1
+TwinSpanCutLevel
+1
+NineUserCutLevels
+
+
+
+
+
+
+
+
+
+GroupSize
+5
+Indicators
+5
+Species
+200
+Divisions
+6
+BcordDistance
+1
+BcordEndPoint
+2
+AxisProjection
+1
+ResidualDistances
+1
+Axes
+3
+ListResidual
+0
+ListDistance
+1
+BcordMinimizing
+1
+BcordNSEPA
+0
+BcordNonSubjective
+2
+DcaDownWeight
+1
+DcaRescale
+2
+DcaThreshold
+0.
+DcaSegments
+26
+RaDownWeight
+1
+MultiplyType
+1
+Normalize
+2
+Divide
+2
+CcaScaledBy
+1
+CcaScalingScores
+2
+CcaScoreGraph
+1
+CcaCorr
+2
+CcaHypothesis
+1
+CcaRandomOption
+1
+CcaRandomSeeds
+
+0
+CcaMonteCarlo
+1
+CcaMonteCarloRuns
+100
+SpeciesListsAggregate
+1
+SpeciesNumbers
+2
+SpeciesNames
+1
+SpeciesFullNames
+1
+SpeciesAbundanceValues
+1
+SpeciesAggregateAverages
+2
+SpeciesAggregateCounts
+1
+SpeciesAggregatePercentages
+1
+SpeciesBrokenDown
+1
+IndicatorRandomOption
+1
+IndicatorRandomSeeds
+
+0
+IndicatorMonteCarlo
+2
+IndicatorMonteCarloRuns
+1000
+MainMantelDistance
+1
+MantelMainMatrix
+1
+MantelSecondMatrix
+1
+MantelListFirst
+1
+MantelListSecond
+1
+MantelMonteCarlo
+1
+MantelMonteCarloRuns
+1000
+MantelRandomOption
+1
+MantelRandomSeeds
+
+0
+CalibrationDataFile
+
+CalibrationScoresFile
+
+Method
+1
+Flag
+1
+Limit
+5.
+UserFlag
+
+Intermediate
+1
+BMRPPDistance
+4
+BMRPPAverage
+1
+BMRPPMedian
+2
+BMRPPVarName
+
+BcordGraphCol
+1
+NMSGraphCol
+1
+PCAGraphCol
+1
+NMSRealRuns
+10
+NMSStable
+0.005
+NMSLastN
+10
+NMSStepDown
+2
+NMSLogList
+2
+NMSStress
+2
+NMSSpeed
+2
+NMSAutopilot
+2
+SecondMantelDistance
+1
+WriteMantelList
+1
+ImpDbsMethod
+1
+ImpDbsFirstLine
+2
+ImpDbsRows
+
+ImpDbsCols
+
+ImpDbsTab
+2
+ImpDbsComma
+2
+ImpDbsSpace
+2
+ImpDbsSemicolon
+2
+ImpDbsDoubleQuotes
+2
+ImpDbsSingleQuotes
+1
+ExpDbsNumbers
+2
+ExpDbsDelimiter
+1
+ExpDbsQuotedStrings
+2
+ExpDbsOmitZeros
+2
+SpeciesAreaDistance
+1
+
+[Main Window]
+File=C:\DOCUMENTS AND SETTINGS\STEVE DINKELACKER\DESKTOP\BOG TURTLE MANUSCRIPT\HABITATS.WK1
+[Second Window]
+File=C:\DOCUMENTS AND SETTINGS\STEVE DINKELACKER\DESKTOP\BOG TURTLE MANUSCRIPT\HABITATS2.WK1
+[Row Window]
+File=C:\Pcord4\Working\GRAPHROW.GPH
+[Col Window]
+File=C:\Pcord4\Working\GRAPHCOL.GPH
+[Result Window]
+File=C:\Documents and Settings\Steve Dinkelacker\Desktop\Bog Turtle Manuscript\
+[Graph Options]
+Variance Distance=0
+Flexibility=5
+EnvelopeStdDev=2.0
+Frame Type=1
+Label Points Row=0
+Label Points Col=0
+Plot Points Row=1
+Plot Points Col=0
+Symbols Row=18
+Symbols Col=168
+Graph Title=1
+Axis Titles=1
+Tick Marks=0
+Tick Labels=0
+Label Every Other Tick=1
+Overlay Tick Marks=1
+Show Quantitative=1
+Envelope=1
+Regression=1
+Print BW=0
+Save BW=0
+Hide ToolBar=0
+Color Code=0
+Symbol Code=1
+Show Legend=1
+Show Legend Frame=1
+Legend Symbol Order 0=0
+Legend Symbol Order 1=5
+Legend Symbol Order 2=10
+Legend Symbol Order 3=3
+Legend Symbol Order 4=4
+Legend Symbol Order 5=5
+Legend Symbol Order 6=6
+Legend Symbol Order 7=7
+Legend Symbol Order 8=8
+Legend Symbol Order 9=9
+Legend Symbol Order 10=10
+Legend Symbol Order 11=11
+Legend Symbol Order 12=12
+Legend Symbol Order 13=13
+Legend Symbol Order 14=14
+Legend Color Order 0=0
+Legend Color Order 1=1
+Legend Color Order 2=2
+Legend Color Order 3=3
+Legend Color Order 4=4
+Legend Color Order 5=5
+Legend Color Order 6=6
+Legend Color Order 7=7
+Legend Color Order 8=8
+Legend Color Order 9=9
+Legend Color Order 10=10
+Legend Color Order 11=11
+Legend Color Order 12=12
+Legend Color Order 13=13
+Legend Color Order 14=14
+Weight Frame=2
+Weight Ticks=2
+Weight Joint Plots=2
+Weight Regression Lines=1
+Weight Vectors=2
+Weight Grids=1
+Weight Legend Frame=1
+Graph Color=0
+Axis Scaling=1
+Variable Cutoff=.200
+Vector Scale=100
+Graph Title Name=Arial
+Graph Title Size=16
+Graph Title Style=0
+Row Labels Name=Small Fonts
+Row Labels Size=6
+Row Labels Style=0
+Column Labels Name=Small Fonts
+Column Labels Size=6
+Column Labels Style=0
+Axis Titles Name=Arial
+Axis Titles Size=14
+Axis Titles Style=0
+Joint Plot Name=Arial
+Joint Plot Size=10
+Joint Plot Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Correlations Labels Name=Arial
+Correlations Labels Size=10
+Correlations Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=12
+Legend Labels Style=0
+[Dendrogram Options]
+Cluster Title=1
+Distance Scale=1
+Information Scale=1
+Print BW=0
+Save BW=0
+Color Code=1
+Symbol Code=0
+Show Legend=1
+Show Legend Frame=1
+Legend Orientation=1
+Row Labels=1
+Scale Line=2
+Weight Ticks=2
+Tree Lines=1
+Weight Legend Frame=1
+Graph Color=0
+Line Spacing=10
+Printing Pages=1
+Cluster Title Name=Arial
+Cluster Title Size=16
+Cluster Title Style=0
+Axis Titles Name=Arial
+Axis Titles Size=16
+Axis Titles Style=0
+Row Labels Name=Arial
+Row Labels Size=8
+Row Labels Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=8
+Legend Labels Style=0
+[Species Curves Options]
+Species Title=1
+Species Axis Title=1
+Distance Axis Title=1
+Num Subplots Axis Title=1
+Species Plot=1
+Distance Plot=1
+Species Confidence Plot=1
+Distance Confidence Plot=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=1
+Show Legend=1
+Show Legend Frame=1
+Print BW=0
+Save BW=0
+Graph Color=0
+Species Style=0
+Distance Style=0
+Species Confidence Style=2
+Distance Confidence Style=2
+Weight Frame=2
+Weight Ticks=2
+Weight Species Line=1
+Weight Distance Line=1
+Weight Species Confidence Line=1
+Weight Distance Confidence Line=1
+Weight Legend Frame=1
+Species Color=13
+Distance Color=4
+Species Confidence Color=0
+Distance Confidence Color=2
+Species Title Name=Arial
+Species Title Size=16
+Species Title Style=0
+Axis Titles Name=Arial
+Axis Titles Size=12
+Axis Titles Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=8
+Legend Labels Style=0
+[Stress Options]
+Stress Title=1
+Stress Axis Title=1
+Dimensions Axis Title=1
+Randomized Lines Plot=1
+Real Data Lines Plot=1
+Randomized Symbols Plot=1
+Real Data Symbols Plot=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=1
+Show Legend=1
+Show Legend Frame=1
+Print BW=0
+Save BW=0
+Graph Color=0
+Randomized Style=0
+Real Data Style=0
+Weight Frame=2
+Weight Ticks=2
+Weight Randomized Line=1
+Weight Real Data Line=1
+Weight Legend Frame=1
+Randomized Symbol=106
+Real Data Symbol=106
+Randomized Line Color=13
+Real Data Line Color=4
+Randomized Symbol Color=0
+Real Data Symbol Color=2
+Stress Title Name=Arial
+Stress Title Size=16
+Stress Title Style=0
+Axis Titles Name=Arial
+Axis Titles Size=12
+Axis Titles Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=8
+Legend Labels Style=0
+[Main History]
+C:\Documents and Settings\Steve Dinkelacker\Desktop\Bog Turtle Manuscript\Habitats.wk1=H0
+[Second History]
+C:\Documents and Settings\Steve Dinkelacker\Desktop\Bog Turtle Manuscript\Habitats2.wk1=H0
+[Result History]
+C:\Documents and Settings\Steve Dinkelacker\Desktop\Bog Turtle Manuscript\MRPP Results.txt=H0
+C:\Documents and Settings\Steve Dinkelacker\Desktop\Bog Turtle Manuscript\NMS Results.txt=H1
+[Dendrogram Window]
+File=
+[Species-area Curves Window]
+File=
+[Stress Window]
+File=C:\Pcord4\Working\STRESS.STR

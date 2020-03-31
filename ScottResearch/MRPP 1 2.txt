@@ -1,0 +1,44 @@
+
+***************** Multi-Response Permutation Procedures (MRPP) *****************
+PC-ORD, Version 4.20        
+ 8 Dec 2005, 14:12
+
+
+NMS (1 2)                                                                       
+
+        Code numbers for excluded groups:
+                 3
+
+        Groups were defined by values of: Species 
+        Input data has:      21 turtles  by     40 habitats
+        Weighting option: C(I) = n(I)/sum(n(I))
+        Distance measure: Sorensen (Bray-Curtis)        
+
+GROUP:    1
+Code:     1
+Size:    16      0.29278283    = Average distance
+Members:
+ BOG1     BOG2     BOG3     BOG4     BOG5     BOG6     BOG7     BOG8    
+ BOG9     BOG10    BOG11    BOG12    BOG13    BOG14    BOG15    BOG16   
+
+GROUP:    2
+Code:     2
+Size:     5      0.48176838    = Average distance
+Members:
+ SNAP1    SNAP2    SNAP3    SNAP4    SNAP5   
+ 
+        Test statistic: T =      -8.9734884    
+           Observed delta =      0.33777939    
+           Expected delta =      0.40215767    
+        Variance of delta =      0.51470235E-04
+        Skewness of delta =      -1.6812329    
+
+        Chance-corrected within-group agreement, A =    0.16008219
+          A = 1 - (observed delta/expected delta)
+          Amax = 1 when all items are identical within groups (delta=0)
+          A = 0 when heterogeneity within groups equals expectation by chance
+          A < 0 with more heterogeneity within groups than expected by chance
+
+        Probability of a smaller or equal delta, p =    0.00001841
+
+****************************** MRPP finished ******************************

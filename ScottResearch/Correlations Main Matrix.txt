@@ -1,0 +1,24 @@
+
+************************** Output from Graph **************************
+PC-ORD Version 4.20
+12/1/2005, 12:28 PM
+
+Variation
+
+Coefficients of determination for the correlations between ordination
+distances and distances in the original n-dimensional space:
+
+            R Squared
+Axis   Increment   Cumulative
+ 1       .457        .457
+ 2       .467        .924
+
+Increment and cumulative R-squared were adjusted for any lack
+of orthogonality of axes.
+
+Axis pair     r     Orthogonality,% = 100(1-r^2)
+  1 vs 2    -0.386     85.1
+
+Number of entities = 29
+Number of entity pairs used in correlation = 406
+Distance measure for ORIGINAL distance: Sorensen (Bray-Curtis)
